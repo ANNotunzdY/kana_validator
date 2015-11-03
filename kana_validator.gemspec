@@ -21,11 +21,15 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/kana_validator.rb"
+    "kana_validator.gemspec",
+    "lib/kana_validator.rb",
+    "test/helper.rb",
+    "test/test_kana_validator.rb"
   ]
   s.homepage = "http://github.com/ANNotunzdY/kana_validator"
   s.licenses = ["MIT"]
