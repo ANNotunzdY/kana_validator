@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "kana_validator"
   gem.homepage = "http://github.com/ANNotunzdY/kana_validator"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{カタカナ・ひらがなバリデーター}
+  gem.description = %Q{カタカナ・ひらがなバリデーター}
   gem.email = "webmaster@smilemac.com"
   gem.authors = ["Takayoshi Sato"]
   # dependencies defined in Gemfile
